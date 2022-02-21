@@ -1,0 +1,29 @@
+{
+  "name": "babel-preset-omit-plugins",
+  "version": "0.1.0-0",
+  "description": "Omit certain plugins from a Babel preset",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore --fix .",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyanSalt/babel-preset-omit-plugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyanSalt/babel-preset-omit-plugins/issues"
+  },
+  "homepage": "https://github.com/CyanSalt/babel-preset-omit-plugins#readme",
+  "keywords": [
+    "babel",
+    "babel-preset"
+  ],
+  "author": "CyanSalt",
+  "license": "ISC",
+  "devDependencies": {
+    "@cyansalt/eslint-config-preset": "^1.3.1",
+    "@release-it/conventional-changelog": "^4.1.0",
+    "release-it": "^14.12.4"
+  }
+}
