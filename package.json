@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-omit-plugins",
-  "version": "0.1.0-0",
+  "version": "0.1.0",
   "description": "Omit certain plugins from a Babel preset",
   "main": "index.js",
   "scripts": {
