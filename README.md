@@ -1,5 +1,7 @@
 # babel-preset-omit-plugins
 
+[![npm](https://img.shields.io/npm/v/babel-preset-omit-plugins.svg)](https://www.npmjs.com/package/babel-preset-omit-plugins)
+
 Omit certain plugins from a Babel preset.
 
 **WARNING: This package is not yet stable. Please take special care before using it in a production environment.**
