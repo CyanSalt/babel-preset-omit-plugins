@@ -4,7 +4,8 @@
 
 Omit certain plugins from a Babel preset.
 
-**WARNING: This package is not yet stable. Please take special care before using it in a production environment.**
+> [!WARNING]
+> This package is not yet stable. Please take special care before using it in a production environment.
 
 ## Usage
 
